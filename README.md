@@ -13,6 +13,11 @@ Projeto criado no Bootcamp .NET da DIO, utilizando  o Entity Framework para o Ba
 - dotnet add package Microsoft.EntityFrameworkCore.SqlServer
 
 
+<h4>Comando utilizado para criar as migrations do banco de dados:</h4>
+
+- dotnet-ef migrations add CriacaoTabelaContato
+
+
 <h4>Comando utilizado para verificar a conexão do banco de dados:</h4>
 
 
