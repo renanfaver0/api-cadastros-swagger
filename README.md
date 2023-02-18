@@ -1,5 +1,5 @@
 # api-cadastros-swagger
-Projeto criado no Bootcamp .NET da DIO, utilizando  o Entity Framework para o Back End e o Swagger UI como interface. O Banco de dados utilizado foi o SQL Server Express 2019,
+Projeto criado no Bootcamp .NET da DIO, utilizando  o Entity Framework para o Back End e o Swagger UI como interface. O Banco de dados utilizado foi o SQL Server Express 2019.
 
 <h4>Versão do .NET: 7.0</h4>
 
